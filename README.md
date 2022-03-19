@@ -1,0 +1,1 @@
+This project is part of The Odin Project curicculum. I started building a recipe website using basic html while also learning about git and github. My additional personal goals were to comprehend git commands, learning when to commit and trying to write meaningful commit messages.
