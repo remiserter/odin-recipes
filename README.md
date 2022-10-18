@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project with The Odin Project. Creating the HTML content was easy. However, I need to become better at committing to Git. I struggle with knowing when to commit. What is a big enough change to write a git commit message and what is not? 
